@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "skills": {
+    "diagram-maker": { "source": "diagram-maker", "sourceType": "clawhub" },
+    "meme-maker": { "source": "meme-maker", "sourceType": "clawhub" }
+  }
+}

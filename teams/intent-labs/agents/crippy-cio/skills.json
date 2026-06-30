@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "crypto-regime-report": { "source": "crypto-regime-report", "sourceType": "clawhub" },
+    "crypto-sentiment-monitor": { "source": "crypto-sentiment-monitor", "sourceType": "clawhub" },
+    "01-crypto-trading-decision-framework": { "source": "01-crypto-trading-decision-framework", "sourceType": "clawhub" },
+    "ccxt": { "source": "ccxt", "sourceType": "clawhub" },
+    "crypto": { "source": "crypto", "sourceType": "clawhub" }
+  }
+}

@@ -13,6 +13,17 @@
       "category": "development",
       "tags": ["desktop", "electron", "openclaw"],
       "author": "clawwork-ai"
+    },
+    {
+      "slug": "intent-labs",
+      "name": "INTENT Labs",
+      "emoji": "⚡",
+      "description": "AI-native operating system for a crypto trading entrepreneur — COO coordinator + 6 specialist agents (CIO, CFO, Creative PM, Health Coach, Life Steward). Real production team running live on OpenClaw.",
+      "version": "1.1.0",
+      "agentCount": 6,
+      "category": "personal",
+      "tags": ["crypto", "trading", "operations", "finance", "health", "life-management", "production"],
+      "author": "itsjustAL"
     }
   ]
 }

@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "skills": {
+    "medici-investments-position-sizer-dv": { "source": "medici-investments-position-sizer-dv", "sourceType": "clawhub" },
+    "01-crypto-trading-decision-framework": { "source": "01-crypto-trading-decision-framework", "sourceType": "clawhub" }
+  }
+}

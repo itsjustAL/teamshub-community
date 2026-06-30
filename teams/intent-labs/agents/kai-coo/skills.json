@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "ccxt": { "source": "ccxt", "sourceType": "clawhub" },
+    "crypto-regime-report": { "source": "crypto-regime-report", "sourceType": "clawhub" },
+    "crypto-self-learning": { "source": "crypto-self-learning", "sourceType": "clawhub" },
+    "01-crypto-trading-decision-framework": { "source": "01-crypto-trading-decision-framework", "sourceType": "clawhub" },
+    "binance-pro": { "source": "binance-pro", "sourceType": "clawhub" },
+    "crypto-sentiment-monitor": { "source": "crypto-sentiment-monitor", "sourceType": "clawhub" },
+    "crypto": { "source": "crypto", "sourceType": "clawhub" },
+    "webhook-receiver": { "source": "webhook-receiver", "sourceType": "clawhub" }
+  }
+}
